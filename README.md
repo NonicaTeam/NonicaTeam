@@ -6,13 +6,13 @@ We're based in Barcelona.
 
 ## Open Source
 
-**[Revit API Docs](https://github.com/NonicaTeam/NonicaTeam.github.io) — revapidocs.com**
+**[Revit API Docs](https://github.com/NonicaTeam/NonicaTeam.github.io) — [revapidocs.com](https://revapidocs.com)**
 A clean, searchable reference for the Revit API across versions 2020 to 2026. Built for developers and architects who work with the Revit API and want something faster and friendlier than the official docs.
 
-**[Civil 3D API Docs](https://github.com/NonicaTeam/Civil3D) — civapidocs.com**
+**[Civil 3D API Docs](https://github.com/NonicaTeam/Civil3D) — [civapidocs.com](https://civapidocs.com)**
 The same idea, but for Civil 3D. API documentation from 2022 to 2026 with search powered by Algolia.
 
-**[BIMEventsWorld](https://github.com/NonicaTeam/BIMEventsWorld)**
+**[BIMEventsWorld](https://github.com/NonicaTeam/BIMEventsWorld) — [bimeventsworld.com](https://bimeventsworld.com)**
 A community site to discover BIM events around the world. Built with Astro.
 
 ## Plugins
