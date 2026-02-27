@@ -1,6 +1,6 @@
 # Hi, we're Nonica 👋
 
-We work on small projects around Autodesk Revit and the BIM ecosystem. From open source tools to AI integrations, everything here is born out of frustration with tools that should already exist.
+We work on small projects around A.I., Autodesk Revit and BIM. From open source tools to AI integrations, everything here is born out of frustration with tools that should already exist.
 
 We're based in Barcelona.
 
