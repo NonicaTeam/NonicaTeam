@@ -1,7 +1,29 @@
+# Hi, we're Nonica 👋
 
-![alt text](https://nonica.io/wp-content/uploads/2021/06/panel.jpg)
+We work on small projects around Autodesk Revit and the BIM ecosystem. From open source tools to AI integrations, everything here is born out of frustration with tools that should already exist.
 
-[![Pro](https://img.shields.io/badge/PRO%20version-Download-orange)](https://apps.autodesk.com/RVT/en/Detail/Index?id=9212699819557407848&appLang=en&os=Win64) [![Free](https://img.shields.io/badge/FREE%20Version-Download-blue)](https://apps.autodesk.com/RVT/en/Detail/Index?id=2476142006549788030&appLang=en&os=Win64)
-# Nonica
+We're based in Barcelona.
 
-📨 Contact hello@nonica.io for more information.
+## Open Source
+
+**[Revit API Docs](https://github.com/NonicaTeam/NonicaTeam.github.io) — revapidocs.com**
+A clean, searchable reference for the Revit API across versions 2020 to 2026. Built for developers and architects who work with the Revit API and want something faster and friendlier than the official docs.
+
+**[Civil 3D API Docs](https://github.com/NonicaTeam/Civil3D) — civapidocs.com**
+The same idea, but for Civil 3D. API documentation from 2022 to 2026 with search powered by Algolia.
+
+**[BIMEventsWorld](https://github.com/NonicaTeam/BIMEventsWorld)**
+A community site to discover BIM events around the world. Built with Astro.
+
+## Plugins
+
+**[AI Connector for Revit](https://github.com/NonicaTeam/AI-Connector-for-Revit)**
+An AI integration that brings Claude into Revit. This repo is where we track issues and suggestions from users. Part of an official Anthropic integration since 2025.
+
+We also build NonicaTab, a customizable Revit toolbar that lets teams run Dynamo scripts, access tools, and use AI without writing a single line of code.
+
+[NonicaTab (free)](https://github.com/NonicaTeam/NonicaTab) and [NonicaTab PRO](https://github.com/NonicaTeam/NonicaTab-PRO) are both available. More at [nonica.io](https://nonica.io/).
+
+## Get in touch
+
+[hello@nonica.io](mailto:hello@nonica.io)
